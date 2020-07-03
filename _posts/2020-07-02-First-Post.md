@@ -15,5 +15,5 @@ def find_mean(arr):
   sum = 0
   for i in arr:
     sum = sum + i
-  return sum
+  return sum / len(arr)
 ```
