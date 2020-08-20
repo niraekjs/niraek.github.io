@@ -1,6 +1,8 @@
-# 
-
-
+---
+layout: post
+title: Linear Regression!
+categories: [Coding]
+---
 
 Our end goal is to learn how simple linear regression works, and to implement it on a real dataset. First, let's take a look at an example dataset and go through the logic of linear regression on it.
 
