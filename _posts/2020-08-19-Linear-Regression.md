@@ -140,7 +140,7 @@ ca_data.plot.scatter("MedInc", "Med House Value")
 
 
 
-![png](Scratch_files/output_5_1.png)
+![png](/images/Scratch_files/output_5_1.png)
 
 
 ```python
